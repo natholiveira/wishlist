@@ -10,7 +10,7 @@ Base url: https://wishlist-service.herokuapp.com
 
 ## Technologies
 
-- Java 11
+- Java 17
 - Spring Boot
 - JUnit
 - MongoDB
